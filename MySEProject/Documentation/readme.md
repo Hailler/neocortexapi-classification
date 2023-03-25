@@ -12,11 +12,11 @@ Further, The training data needs to be used for feature prediction of any given 
  
  Create a new folder "InputFolder/" in the project directory and the imagesets which are used to train the model are stored in it.
  
-!["InputFolder/" with the shapes to train](https://user-images.githubusercontent.com/46021672/158034659-5e2c7221-f513-4c6d-b59b-5e78a8107aa6.png)
+xxxxxx
 
  Each Imageset is stored inside a folder whose name is the set's label.
  
-![image](https://user-images.githubusercontent.com/46021672/160381920-728ba2af-41d8-4802-8ab3-9c7d1c85ceeb.png)
+xxxxxx
 
 
 ### Step-2: Prepare the program's directory for Prediction Images.
