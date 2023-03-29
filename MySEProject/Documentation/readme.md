@@ -55,6 +55,7 @@ The flowchart of the prediction phase is demonstrated in the below image
 
 
 Below is the prediction result for the images used for predicion
+
 ![for report cicle](https://user-images.githubusercontent.com/22776803/228689535-2ff17e97-2b0c-45db-8f9f-8804f49f64c3.PNG)
 
 ![for report others](https://user-images.githubusercontent.com/22776803/228689475-65b42331-d148-41a1-a8ae-44888057887a.PNG)
