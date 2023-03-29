@@ -11,19 +11,18 @@ Further, The training data needs to be used for feature prediction of any given 
  ### Step-1: Prepare the program's directory for learning Shapes
  
  Create a new folder "InputFolder/" in the project directory and the imagesets which are used to train the model are stored in it.
- 
-xxxxxx
-
  Each Imageset is stored inside a folder whose name is the set's label.
  
-xxxxxx
+![image](https://user-images.githubusercontent.com/22776803/228688619-563c3df2-1274-44b3-bbb0-04aafb931c74.png)
+
+
 
 
 ### Step-2: Prepare the program's directory for Prediction Images.
  
- Create a new folder "PredictInputFolder/" in the project directory and the Prediction Images are stored in it, where the prediction extracts the images from this directory to perform the shape prediction with the help of trained dataset. The prediction code is able to get the multiple images for prediction and displays the similarity output respectivly
+ Create a new folder "PredictInputFolder/" in the project directory and the Prediction Images are stored in it, where the prediction extracts the images from this directory to perform the shape prediction with the help of trained dataset. The prediction code is able to get the multiple images for prediction and displays the similarity output respectively
 
- xxxxxxx
+ ![image](https://user-images.githubusercontent.com/22776803/228689022-1c26abef-16c4-4b4b-8f2a-fba4a91433a7.png)
 
 
 ## Tasks and Results
@@ -41,7 +40,7 @@ The following parameters have been changed for the trained image dataset of simp
 
 After experimenting the learning dataset with the various parameters, we were able to find the best corelation matrix that shows image classification for simple shapes.
 
-xxxxx
+![image](https://user-images.githubusercontent.com/22776803/228689109-588fc4fb-b91a-4b95-be8f-ede21763f3e1.png)
 
 ### Task 2: Code for Image Prediction. 
 
@@ -52,10 +51,13 @@ xxxxx
 
 The flowchart of the prediction phase is demonstrated in the below image
 
-xxxxxxxxx
+![image](https://user-images.githubusercontent.com/22776803/228689147-9d4c0597-ae74-4aa6-b4df-d71982ae35a9.png)
+
 
 Below is the prediction result for the images used for predicion
-xxxxxxx
+![for report cicle](https://user-images.githubusercontent.com/22776803/228689535-2ff17e97-2b0c-45db-8f9f-8804f49f64c3.PNG)
+
+![for report others](https://user-images.githubusercontent.com/22776803/228689475-65b42331-d148-41a1-a8ae-44888057887a.PNG)
 
 
 ## Goals Accomplished
