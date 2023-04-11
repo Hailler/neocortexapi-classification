@@ -64,7 +64,7 @@ Below is the prediction result for the images used for predicion
 ## Goals Accomplished
 
 Learning Phase:
-1. Conducted several experiments with two different datasets having image dimensions 100x100 and 64x64 for influencial learning.
+1. Conducted several experiments with image dimensions 64x64 for influencial learning.
 2. Experimented the spatial pooler parameters with different values of PotentialRadius, LocalAreaDensity, NumActiveColumnsPerInhArea and Global Inhibition and plotted graphs for the detailed understanding between them. 
 3. Generated the execution times graph for the different PotentialRadius and LocalAreaDensity values.
 4. Able to find the best fit matrix for both the datasets.
